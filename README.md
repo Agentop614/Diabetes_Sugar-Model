@@ -54,8 +54,9 @@ The project follows these key steps:
 
 1. Clone this repository:
    ```bash
-   git clone https://github.com/shsarv/Machine-learning-projects.git
-   cd diabetes-prediction-[End-2-END]/Diabetes-prediction-deployed
+   git clone https://github.com/Agentop614/Diabetes_Sugar-Model.git
+   cd to your diabetes-prediction folder
+   
    ```
 
 2. Install the required dependencies:
