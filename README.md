@@ -44,7 +44,7 @@ The project follows these key steps:
 ## How to Use
 
 ### Prerequisites
-- Python 3.x
+- Python 3.8.1
 - Flask
 - scikit-learn
 - Pandas
